@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:TronerMornenion/aprendendo_com_as_maos.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

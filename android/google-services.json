@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815884487412",
+    "project_id": "aprendendo-com-as-maos",
+    "storage_bucket": "aprendendo-com-as-maos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815884487412:android:c579377ada57ed555b6ca1",
+        "android_client_info": {
+          "package_name": "com.example.aprendendo_com_as_maos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEezozp3zIYF2WIJr60YImyHBbl_XnVAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
